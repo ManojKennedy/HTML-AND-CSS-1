@@ -1,0 +1,552 @@
+body{
+    background: linear-gradient(159deg, #F8D696 6.37%, #EABF61 84.14%);
+}
+.girl{
+    width: 700px;
+    position: absolute;
+    top: 73px;
+    left: 700px;
+}
+h1{
+    font-family: 'Bitter', serif;
+    font-size: 75px;
+    font-weight: bolder;
+    position: absolute;
+    left: 150px;
+    top: 150px;
+    line-height: 100px;
+}
+p{
+    font-family: monospace;
+    position: absolute;
+    width: 370px;
+    font-size: 18px;
+    top: 400px;
+    left: 150px;
+    letter-spacing: 2px;
+    line-height: 30px;
+}
+a{
+    font-family: monospace;
+    position: absolute;
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    padding: 15px 30px;
+    border-radius: 35px;
+    top: 580px;
+    left: 150px;
+}
+.circle{
+    position: absolute;
+    top: 63px;
+    left: 174.5px;
+    width: 85px;
+}
+.heart{
+    position: absolute;
+    top: 90px;
+    left: 200px;
+    width: 30px;
+    
+}
+.circle_text div{
+    position: absolute;
+    font-size: 18px;
+    
+}
+.c_alpha{
+    transform: rotate(-100.55deg);
+    left: 267px;
+    top: 92px;
+}
+.o{
+    transform: rotate(-112.55deg);
+    left: 264.5px;
+    top: 81px;
+}
+.n{
+    transform: rotate(-115.55deg);
+    left: 261px;
+    top: 70px;
+}
+.s{
+    transform: rotate(-126.55deg);
+    left: 256.5px;
+    top: 61px;
+}
+.L{
+    transform: rotate(-138.55deg);
+    left: 245px;
+    top: 50px;
+}
+.o1{
+    transform: rotate(-145.55deg);
+    left: 236px;
+    top: 44px;
+}
+.r{
+    transform: rotate(-165.55deg);
+    left: 226px;
+    top: 41px;
+}
+.e{
+    transform: rotate(-180.55deg);
+    left: 215px;
+    top: 39.5px;
+}
+.m{
+    transform: rotate(-194.55deg);
+    left: 197px;
+    top: 41.5px;
+}
+.r1{
+    transform: rotate(-205.55deg);
+    left: 187px;
+    top: 46px;
+}
+.i{
+    transform: rotate(-218.55deg);
+    left: 179px;
+    top: 52px;
+}
+.p{
+    transform: rotate(-225.55deg);
+    left: 170px;
+    top: 60px;
+}
+.s1{
+    transform: rotate(-236.55deg);
+    left: 164px;
+    top: 70px;
+}
+.m1{
+    transform: rotate(-260.55deg);
+    left: 156px;
+    top: 84.5px;
+}
+.d{
+    transform: rotate(-285.55deg);
+    left: 158px;
+    top: 103.5px;
+}
+.o2{
+    transform: rotate(-295.55deg);
+    left: 162px;
+    top: 116.5px;
+}
+.l1{
+    transform: rotate(-305.55deg);
+    left: 170px;
+    top: 126.5px;
+}
+.o3{
+    transform: rotate(-315.55deg);
+    left: 175px;
+    top: 135.5px;
+}
+.r2{
+    transform: rotate(-320.55deg);
+    left: 185px;
+    top: 142px;
+}
+.s2{
+    transform: rotate(-344.55deg);
+    left: 200px;
+    top: 148px;
+}
+.i1{
+    transform: rotate(-357.55deg);
+    left: 210px;
+    top: 150px;
+}
+.t{
+    transform: rotate(-362.55deg);
+    left: 220px;
+    top: 150px;
+}
+.a{
+    transform: rotate(-385.55deg);
+    left: 234px;
+    top: 145.5px;
+}
+.m2{
+    transform: rotate(-401.55deg);
+    left: 244px;
+    top: 137.5px;
+}
+.e1{
+    transform: rotate(-418.55deg);
+    left: 257px;
+    top: 126px;
+}
+.t1{
+    transform: rotate(-425.55deg);
+    left: 264px;
+    top: 116px;
+}
+.comma{
+    transform: rotate(-430.55deg);
+    left: 265px;
+    top: 106px;
+}
+.left div{
+    position: absolute;
+    font-family: monospace;
+    font-size: 14px;
+}
+.left .b{
+    left: 698px;
+    top: 700px;
+    transform: rotate(-75deg);
+}
+.left .e{
+    left: 700px;
+    top: 692px;
+    transform: rotate(-73deg);
+}
+.left .a{
+    left: 702px;
+    top: 684px;
+    transform: rotate(-73deg);
+}
+.left .u{
+    left: 705px;
+    top: 677px;
+    transform: rotate(-72deg);
+}
+.left .t{
+    left: 707px;
+    top: 669px;
+    transform: rotate(-70deg);
+}
+.left .y{
+    left: 710px;
+    top: 661px;
+    transform: rotate(-67deg);
+}
+.left .i{
+    left: 717px;
+    top: 645px;
+    transform: rotate(-50deg);
+}
+.left .s{
+    left: 721px;
+    top: 639px;
+    transform: rotate(-48deg);
+}
+.left .a1{
+    left: 730px;
+    top: 633px;
+    transform: rotate(-40deg);
+}
+.left .b1{
+    left: 736.5px;
+    top: 627px;
+    transform: rotate(-40deg);
+}
+.left .o{
+    left: 742px;
+    top: 621.5px;
+    transform: rotate(-40deg);
+}
+.left .u1{
+    left: 749px;
+    top: 616.5px;
+    transform: rotate(-37deg);
+}
+.left .t1{
+    left: 755px;
+    top: 613px;
+    transform: rotate(-30deg);
+}
+.is{
+    top: 12px;
+    left: 23x;
+}
+.left .e1{
+    left: 770px;
+    top: 605px;
+    transform: rotate(-27deg);
+}
+.left .n{
+    left: 777px;
+    top: 601.5px;
+    transform: rotate(-23deg);
+}
+.left .h{
+    left:784px;
+    top: 599px;
+    transform: rotate(-23deg);
+}
+.left .a2{
+    left: 790px;
+    top: 596px;
+    transform: rotate(-20deg);
+}
+.left .n1{
+    left: 797px;
+    top: 593.5px;
+    transform: rotate(-20deg);
+}
+.left .c{
+    left: 803px;
+    top: 590px;
+    transform: rotate(-20deg);
+}
+.left .i1{
+    left: 809px;
+    top: 588px;
+    transform: rotate(-20deg);
+}
+.left .n2{
+    left: 815px;
+    top: 585.5px;
+    transform: rotate(-20deg);
+}
+.left .g{
+    left: 822px;
+    top: 582.5px;
+    transform: rotate(-20deg);
+}
+.left .w{
+    left: 835px;
+    top: 576.5px;
+    transform: rotate(-29deg);
+}
+.left .h1{
+    left: 842px;
+    top: 573.5px;
+    transform: rotate(-29deg);
+}
+.left .a3{
+    left: 849px;
+    top: 570px;
+    transform: rotate(-29deg);
+}
+.left .t2{
+    left: 855px;
+    top: 566.5px;
+    transform: rotate(-29deg);
+}
+.left .y1{
+    left: 867px;
+    top: 561.5px;
+    transform: rotate(-27deg);
+}
+.left .o1{
+    left: 873.5px;
+    top: 559.5px;
+    transform: rotate(-24deg);
+}
+.left .u2{
+    left: 880px;
+    top: 555.5px;
+    transform: rotate(-27deg);
+}
+
+.left .h2{
+    left: 890.5px;
+    top: 550px;
+    transform: rotate(-27deg);
+}
+.left .a4{
+    left: 896px;
+    top: 547px;
+    transform: rotate(-27deg);
+}
+.left .v{
+    left: 902px;
+    top: 544px;
+    transform: rotate(-27deg);
+}
+.left .e2{
+    left: 909px;
+    top: 538.5px;
+    transform: rotate(-27deg);
+}
+.have{
+    top: 5px;
+}
+.you{
+    top: 5px;
+}
+.right div{
+    position: absolute;
+    font-family: monospace;
+    font-size: 14px;
+}
+.right .b{
+    left: 1130px;
+    top: 515px;
+    transform: rotate(13deg);
+}
+.right .e{
+    left: 1137.5px;
+    top: 516px;
+    transform: rotate(10deg);
+}
+.right .y{
+    left: 1149.5px;
+    top: 519px;
+    transform: rotate(10deg);
+}
+.right .o{
+    left: 1156px;
+    top: 521px;
+    transform: rotate(10deg);
+}
+.right .u{
+    left: 1163px;
+    top: 522px;
+    transform: rotate(14deg);
+}
+.right .r{
+    left: 1170px;
+    top: 524.5px;
+    transform: rotate(14deg);
+}
+.right .s{
+    left: 1177px;
+    top: 526px;
+    transform: rotate(16deg);
+}
+.right .e1{
+    left: 1183.5px;
+    top: 527.5px;
+    transform: rotate(13deg);
+}
+.right .l{
+    left: 1189.5px;
+    top: 530px;
+    transform: rotate(17deg);
+}
+.right .f{
+    left: 1196.5px;
+    top: 533.5px;
+    transform: rotate(17deg);
+}
+.right .l1{
+    left: 1213.5px;
+    top: 536.5px;
+    transform: rotate(20deg);
+}
+.right .e2{
+    left: 1220px;
+    top: 539px;
+    transform: rotate(17deg);
+}
+.right .t{
+    left: 1227px;
+    top: 541px;
+    transform: rotate(20deg);
+}
+.right .w{
+    left: 1238px;
+    top: 546px;
+    transform: rotate(24deg);
+}
+.right .h{
+    left: 1245.5px;
+    top: 549.5px;
+    transform: rotate(27deg);
+}
+.right .o1{
+    left: 1252px;
+    top: 552px;
+    transform: rotate(24deg);
+}
+.right .y1{
+    left: 1263px;
+    top: 560px;
+    transform: rotate(26deg);
+}
+.right .o2{
+    left: 1269px;
+    top: 563px;
+    transform: rotate(24deg);
+}
+.right .u1{
+    left: 1275px;
+    top: 566px;
+    transform: rotate(30deg);
+}
+.right .a{
+    left: 1285px;
+    top: 568px;
+    transform: rotate(29deg);
+}
+.right .r1{
+    left: 1290px;
+    top: 571px;
+    transform: rotate(29deg);
+}
+.right .e3{
+    left: 1296px;
+    top: 576px;
+    transform: rotate(29deg);
+}
+.right .w1{
+    left: 1314px;
+    top: 585px;
+    transform: rotate(32deg);
+}
+.right .h1{
+    left: 1321px;
+    top: 589px;
+    transform: rotate(35deg);
+}
+.right .a1{
+    left: 1326px;
+    top: 593px;
+    transform: rotate(37deg);
+}
+.right .t1{
+    left: 1332px;
+    top: 597px;
+    transform: rotate(40deg);
+}
+.right .y2{
+    left: 1340px;
+    top: 605px;
+    transform: rotate(43deg);
+}
+.right .o3{
+    left: 1344px;
+    top: 610px;
+    transform: rotate(45deg);
+}
+.right .u2{
+    left: 1348px;
+    top: 617px;
+    transform: rotate(59deg);
+}
+.right .a2{
+    left: 1354px;
+    top: 629px;
+    transform: rotate(65deg);
+}
+.right .r2{
+    left: 1357px;
+    top: 635px;
+    transform: rotate(65deg);
+}
+.right .e4{
+    left: 1357px;
+    top: 645.5px;
+    transform: rotate(70deg);
+}
+.be{
+    top: 6px;
+}
+.yourself{
+    top: 6px;
+}
+.are1{
+    top: 10px;
+    left: 10px
+}
+.you1{
+    top: 10px;
+    left: 10px;
+}
